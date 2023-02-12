@@ -1,0 +1,311 @@
+{
+  "sale": [
+    {
+      "title": "Black - Maternity Pant",
+      "price": 749,
+      "status": "Out of Stock",
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageSrc": "images/maternity_pant.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/nappies.webp"
+    },
+    {
+      "title": "Deep Blue Sea - Jumsuit",
+      "price": 11499,
+      "status": "Out of Stock",
+      "size": [],
+      "imageSrc": "images/combo_shorts.webp"
+    },
+    {
+      "title": "Bio Safe Diapers",
+      "price": 480,
+      "status": "",
+      "size": [
+        "Upto 3.5kgs",
+        "Upto 5.5kgs"
+      ],
+      "imageSrc": "images/nappies.webp"
+    },
+    {
+      "title": "Pure Pink Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/newborn.webp"
+    },
+    {
+      "title": "Bio Safe Towels",
+      "price": 850,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/wrapBed.webp"
+    },
+    {
+      "title": "Comfy Baby Beds",
+      "price": 4850,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/holding_sheet.webp"
+    },
+    {
+      "title": "Comfy Baby Caps",
+      "price": 650,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/combo_shorts.webp"
+    }
+  ],
+  "newborn": [
+    {
+      "title": "Black - Maternity Pant",
+      "price": 749,
+      "status": "Out of Stock",
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageSrc": "images/maternity_pant.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/nappies.webp"
+    }
+  ],
+  "newbornEssential": [
+    {
+      "title": "Bio Safe Towels",
+      "price": 850,
+      "status": "",
+      "size": [],
+      "imageSrc": "../images/wrapBed.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "../images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "../images/nappies.webp"
+    }
+  ],
+  "newbornHospital": [
+    {
+      "title": "Hospital Pant",
+      "price": 749,
+      "status": "Out of Stock",
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageSrc": "../images/maternity_pant.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "../images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "../images/nappies.webp"
+    }
+  ],
+  "clothing": [
+    {
+      "title": "Pure Pink Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/newborn.webp"
+    },
+    {
+      "title": "Black - Maternity Pant",
+      "price": 749,
+      "status": "Out of Stock",
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageSrc": "images/maternity_pant.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/nappies.webp"
+    }
+  ],
+  "thottil": [
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/thottil.webp"
+    },
+    {
+      "title": "Black - Maternity Pant",
+      "price": 749,
+      "status": "Out of Stock",
+      "size": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageSrc": "images/maternity_pant.webp"
+    },
+    {
+      "title": "Pretty Butterflies Thottil",
+      "price": 2899,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/thottil.webp"
+    },
+    {
+      "title": "Pure White Nappies",
+      "price": 1450,
+      "status": "",
+      "size": [],
+      "imageSrc": "images/nappies.webp"
+    }
+  ],
+  "registeration": [
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 1
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020123",
+      "id": 2
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020mnop",
+      "id": 3
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020success",
+      "id": 4
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 5
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 6
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_202012",
+      "id": 7
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "fgdfgghgfh",
+      "id": 8
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 9
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhith23232020",
+      "id": 10
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 11
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020llll",
+      "id": 12
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_2020",
+      "id": 13
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhvik_202012",
+      "id": 14
+    },
+    {
+      "username": "selvivenkat20@gmail.com",
+      "password": "ddddddddddddddddddddd",
+      "id": 15
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhithi2020",
+      "id": 16
+    },
+    {
+      "username": "SelviGowtham@yahoo.com",
+      "password": "adhithi2020",
+      "id": 17
+    }
+  ]
+}

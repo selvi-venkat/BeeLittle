@@ -1,0 +1,269 @@
+/* .primary-color:#EF6777;// like red
+.secondary-color:#54595F;
+.color-text:#7A7A7A
+.color-accent:#61CE70
+.font-family:Roboto Roboto slab
+.light-green-cyan:#7bdcb5;// light green header background
+.vivid-green-cyan:#00d084; */
+
+::-webkit-scrollbar{
+  width : 10px;
+  height:10px;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #7bdcb5;
+}
+::-webkit-scrollbar-track{
+  background-color: #7A7A7A;
+}
+*{
+  box-sizing : border-box;
+  margin : 0;
+  padding : 0;
+}
+/*Header.js*/
+.logo-placer{
+  width:150px;
+  height:40px;
+}
+.login-header{
+  position:'relative'; 
+  text-decoration: none;
+}
+.login-menus{
+  display: inline-block;
+  padding:20px;
+}
+.brand-header{
+  padding-left:40px;
+}
+.header-links{
+  padding-right : 40px;
+}
+/*RegisterForm.js*/
+.account-layer{
+  font-weight:bold;
+  font-size:25px;
+}
+.account-controller{
+  padding-bottom: 35px;
+}
+.account-heading{
+  font-size:30px;
+}
+.account-form{
+  box-shadow: 0px 2px 8px lightgray;
+  padding:25px;
+  color : #7a7a7a;
+  font-size:18px;
+}
+.submit-account{
+  padding-bottom: 20px;
+}
+.btnSubmit{
+  background-color: #EF6877;
+  border:none;
+}
+.btnSubmit:hover{
+  background-color: #EF6877;
+}
+.forgot-password{
+  text-decoration: none;
+  color: #EF6877;
+}
+.forgot-password:hover{
+  color:black;
+}
+/*Slider.js*/
+.carousel-slides{
+  height:78vh;
+}
+.carousel-img{
+  height : 78vh;
+  object-fit: fill;
+}
+.carousel-indicators button {
+  width: 1rem !important;
+  height: 1rem !important;
+  border-radius: 50%;
+} 
+.carousel-control-prev svg,.carousel-control-next svg{
+  color:black;
+}
+.carousel-control-next, .carousel-control-prev{
+  font-size : 40px;
+  color : black;
+  opacity : 1;
+  width:6%;
+}
+.carousel-control-next:hover, .carousel-control-prev:hover{
+  color : black;
+}
+/*ProductLayout*/
+.product-nav{
+  box-shadow : 0px 2px 8px lightgrey;
+  padding-left : 30px;
+}
+.product-item{
+  padding:15px;
+  font-size: 20px;
+}
+.product-item:hover>a{
+  color:red;  
+  border-bottom: 3px solid red;
+  padding-bottom: 12px;
+}
+.product-link{
+  text-decoration: none;
+  color:black;
+}
+.newborn-submenu{
+  font-size: 20px;
+}
+.sub-details{
+  background: none !important;
+  color:black !important;
+}
+.sub-details:hover{
+  background: none !important;
+  color:red !important;
+}
+/*SaleBoard*/
+.product-container{
+  margin:0 10%;
+}
+.breadcrumb-links{
+  text-decoration : none;
+  color : #54595F;
+}
+/*BestSellers*/
+.container-products{
+  overflow: auto;
+  white-space: nowrap;
+}
+.list-types{
+  display: inline-flex;
+  width:300px;
+}
+.price-card{
+  font-size:20px;
+  color:#54595F;
+}
+.card-button{
+  width:100%;
+}
+/*SetTypes*/
+.type-layer{
+  margin : 30px 0 0 0;
+}
+/*WhyShop*/
+.shopWhy{
+  display : flex;
+  justify-content:center;
+}
+.shopVariety{
+  margin :20px;
+  width:20%;
+} 
+.head-variety{
+  padding-top:30px;
+}
+.variety-store{
+  width:100%;
+  cursor: pointer;
+  transition: 1s;
+}
+.variety-store:hover{  
+  transform: scale(1.15);
+}
+/*Footer*/
+.footer-layer{
+  background-color:#121212;
+  color:white;
+}
+.footer-content{   
+  padding :50px;
+}
+.footer-content ul{
+  font-size: 20px;
+}
+.footer-content li{
+  padding-bottom: 10px;
+}
+.footer-links{
+  text-decoration: none;
+  color:white;
+}
+.footer-links:hover{
+  color:red;
+}
+.footer-address{
+  background-color: #000000;
+}
+.footer-media{
+  margin-left:25px;
+  font-size:40px;
+}
+.footer-copyright{
+  text-align: center;
+  color:#7A7A7A;
+  padding-bottom: 10px ;
+  margin:0;
+}
+/*About*/
+.about-content{
+  font-family: "Rubik", Sans-serif;
+  font-size: 22px;
+  margin-top:25px;
+  line-height:2;
+}
+.about-content h3{
+  color: #EF6877;
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: bold;
+  font-size: 36px;
+}
+/*ReturnPolicy*/
+.return-stmt{
+  text-decoration: underline;
+  font-size:30px;
+  font-weight:bold;
+  text-align:center;
+  text-transform: uppercase;
+  margin-bottom:45px;
+}
+.footer-returnPolicy{
+  color:#7A7A7A;
+  font-size: 20px;
+  line-height:2;
+}
+.footer-returnPolicy h4,h5{
+  margin-bottom: 20px;
+}
+.footer-returnPolicy h4{
+  color:#3a3a3a;
+}
+/*SaleBoard*/
+ .breadcrumb{
+  margin-top : 20px;
+  font-size:20px;  
+}
+.breadcrumb-item a:hover{
+  color:red;
+}
+.breadcrumb-item a{
+  text-decoration: none;
+  color:#000000;
+}
+.breadcrumb.active{
+  color:#54595F;
+}
+/*ProductsList*/
+.sale-logo{
+  position: absolute;
+  background-color: lightgoldenrodyellow;
+  padding: 5px 21px 5px 5px;
+  font-size: 20px;
+  top: -15px;
+}
